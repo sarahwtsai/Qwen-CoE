@@ -1,0 +1,100 @@
+Algorithms and Data Structures
+Introduction to Programming
+Object-Oriented Programming (OOP)
+Functional Programming
+Basic Web Development (HTML, CSS, JavaScript)
+Computer Networks
+Databases and SQL
+Operating Systems
+Software Development Life Cycle (SDLC)
+Data Structures: Arrays, Linked Lists, Stacks, Queues
+Graph Theory
+Sorting and Searching Algorithms
+Dynamic Programming
+Divide and Conquer Algorithms
+Recursion
+Big O Notation and Time Complexity
+Cryptography
+Computational Complexity and NP-Completeness
+Distributed Systems
+NoSQL Databases
+Cloud Computing and Cloud Services
+Data Mining and Data Warehousing
+Machine Learning
+Deep Learning
+Neural Networks
+Natural Language Processing (NLP)
+Computer Vision
+Artificial Intelligence (AI)
+Reinforcement Learning
+Supervised and Unsupervised Learning
+Model Evaluation and Metrics
+Feature Engineering and Feature Selection
+Software Testing and Debugging
+Test-Driven Development (TDD)
+Agile Methodology and Scrum
+DevOps Practices
+Version Control with Git
+Mobile App Development
+Game Development and Game Engines
+Web APIs (RESTful and GraphQL)
+Internet of Things (IoT)
+Cybersecurity and Information Security
+Ethical Hacking and Penetration Testing
+Malware Analysis and Prevention
+Arithmetic Operations
+Cryptocurrencies and Decentralized Apps
+Virtualization and Containerization (Docker, Kubernetes)
+Microservices Architecture
+Serverless Computing
+Edge Computing
+Operating System Scheduling Algorithms
+Memory Management and Garbage Collection
+File Systems and Data Storage
+Computer Graphics and Rendering
+3D Modelling and Animation
+Computational Geometry
+Formal Languages and Automata Theory
+Parallel and Concurrent Programming
+Multithreading and Synchronization
+Cloud Native Development
+Software Design Patterns
+Dependency Injection and Inversion of Control
+Model-View-Controller (MVC) Architecture
+Microkernel Architecture
+Event-Driven Programming
+Blockchain Consensus Algorithms (Proof of Work, Proof of Stake)
+Cloud Platforms (AWS, Google Cloud, Microsoft Azure)
+Real-Time Systems
+Distributed Databases and CAP Theorem
+Network Protocols (TCP/IP, DNS, HTTP)
+HTTP/2 and HTTP/3 Protocols
+Artificial Neural Networks (ANNs)
+Convolutional Neural Networks (CNNs)
+Recurrent Neural Networks (RNNs)
+Generative Adversarial Networks (GANs)
+Data Visualization and Dashboards
+Data Science and Statistical Analysis
+Business Intelligence and Data Analytics
+Quantum Computing
+Introduction to Blockchain and Smart Contracts
+Natural User Interfaces (NUI) and Gesture Recognition
+Digital Signal Processing
+Image Processing and Computer Vision
+Video Streaming Technologies
+Computer Forensics
+Social Network Analysis
+Cloud Security and Data Privacy
+Zero Trust Security Model
+Computer Simulation and Modeling
+Database Indexing and Optimization
+Internet Protocols and Routing Algorithms
+Web Security and Secure Coding Practices
+Augmented Reality (AR) and Virtual Reality (VR)
+Human-Computer Interaction (HCI)
+Cloud Computing Security Risks and Mitigation
+Neural Network Optimization and Hyperparameter Tuning
+Hardware Design and Embedded Systems
+Compiler Design and Optimization
+Digital Cryptography and RSA Algorithm
+Software Architecture and Design Principles
