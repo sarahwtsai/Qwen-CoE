@@ -1,3 +1,4 @@
 datasets/*
 !datasets/.gitkeep
 !datasets/dataset_pca.png
+!datasets/dataset_pca.ipynb
