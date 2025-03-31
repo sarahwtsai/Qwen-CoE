@@ -1,2 +1,3 @@
 datasets/*
 !datasets/.gitkeep
+!datasets/dataset_pca.png
