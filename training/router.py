@@ -8,7 +8,6 @@ class Router(torch.nn.Module):
         self.fc2 = Linear(256, 64)
         self.fc3 = Linear(64, output_dim)
         self.relu = torch.nn.ReLU()
-        self.sigmoid = torch.nn.Sigmoid()
 
     def forward(self, x):
         x = self.fc1(x)
@@ -16,5 +15,4 @@ class Router(torch.nn.Module):
         x = self.fc2(x)
         x = self.relu(x)
         x = self.fc3(x)
-        x = self.sigmoid(x)
         return x
