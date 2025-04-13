@@ -37,8 +37,8 @@ Questions should vary in difficulty and depth of knowledge, and every question s
 {{
     "question": "What is the time complexity of quicksort in the average case?",
     "choices": {{
-        "label": ["A", "B", "C", "D", "E"],
-        "text": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)", "O(1)"]
+        "label": ["A", "B", "C", "D"],
+        "text": ["O(n)", "O(n log n)", "O(n^2)", "O(log n)"]
     }},
     "answerKey": "B"
 }}
